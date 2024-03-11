@@ -1,5 +1,6 @@
 # Single-Page Application for Phone Sales
 This project involves creating a single-page application (SPA) using React to facilitate phone sales. The application leverages the Stripe API to manage all transaction-related activities, including payment processing and validation. Additionally, it incorporates features such as alerts to notify users about various actions and a robust validation system to ensure data integrity.
+
 [![phone sales](https://github.com/jairoramirezu/full-react-app/assets/68242138/f3e34fbd-87cb-49d7-9e4a-5badf4e315f7 "phone sales")](https://github.com/jairoramirezu/full-react-app/assets/68242138/f3e34fbd-87cb-49d7-9e4a-5badf4e315f7 "phone sales")
 
 ## Installation
